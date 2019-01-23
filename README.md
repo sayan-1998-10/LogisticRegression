@@ -4,4 +4,4 @@ I designed this model to predict the possibility of admitting a student based on
 
 It includes two features-Exam score 1 and Exam score 2
 Label 0 - Not admitted
-Label 1 - Admiited
+Label 1 - Admitted
