@@ -22,4 +22,4 @@ model.fit(x_train,y_train) #fitting the model
 
 y_pred = model.predict(x_test)
 accuracy = model.score(x_test,y_test)
-print(accuracy)
+print(accuracy) # accuracy depends on the test_size--in this case for 19% test_size accuarcy~94%
